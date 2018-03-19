@@ -1,0 +1,29 @@
+html{
+	height: 100%;
+}
+
+body{
+	background: url('https://www.desktopbackground.org/p/2014/03/15/731742_cool-wallpapers-hd-5608-image-dm_1280x800_h.jpg');
+	color: white;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+hr {
+	background: white;
+}
+
+.compBox {
+	padding: 5px 20px;
+	transition: 0.3s;
+}
+
+.compBox:hover { 
+	transform: scale(1.2,1.2);
+	background: rgba(100,100,100,0.5);
+
+}
+
+#header{
+	transition: 0.5s;
+}
